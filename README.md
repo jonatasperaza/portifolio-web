@@ -31,6 +31,5 @@ Meu nome é Jonatas, e sou um estudante de 16 anos no Instituto Federal Catarine
 Se você quiser saber mais sobre mim ou entrar em contato, você pode me encontrar nos seguintes canais:
 - [jonatasperaza.if@gmail.com]
 - [Jonatas Peraza]
-- (Adicione outros meios de contato, como um site pessoal ou redes sociais, se aplicável.)
 
 Estou ansioso para conhecer e colaborar com profissionais da área! Obrigado por visitar meu portfólio.
