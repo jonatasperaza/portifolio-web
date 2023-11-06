@@ -13,18 +13,12 @@ Meu nome é Jonatas, e sou um estudante de 16 anos no Instituto Federal Catarine
    - Minha Contribuição: Como criador e responsável por este projeto, minha contribuição incluiu o desenvolvimento do conteúdo dos cursos, a gravação e edição dos vídeos, a criação de materiais de suporte, como exercícios e recursos adicionais, e a gestão geral do projeto.
    - Tecnologias Utilizadas: Gravação de vídeo e edição de vídeo, plataforma de hospedagem de vídeos, design de conteúdo educacional, desenvolvimento de materiais de aprendizado.
 
-(Adicione aqui informações sobre outros projetos que você deseja destacar em seu portfólio.)
-
-## Experiência Profissional
-
-(Adicione informações sobre suas experiências profissionais relevantes.)
 
 ## Habilidades
 
 - Programação web
 - Design de sites
 - Desenvolvimento de aplicativos
-- (Adicione outras habilidades relevantes.)
 
 ## Contato
 
