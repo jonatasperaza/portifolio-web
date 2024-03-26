@@ -2,7 +2,7 @@ particlesJS("background", {
 
     particles: {
         number: {
-            value: 15,
+            value: 20,
             density: {
                 enable: true,
                 value_area: 300,
@@ -13,7 +13,7 @@ particlesJS("background", {
             value: "#ffffff",
         },
         shape: {
-            type: "triangle",
+            type: "circle",
         },
         opacity: {
             value: 0.8,
@@ -46,9 +46,9 @@ particlesJS("background", {
 
         move: {
             enable: true,
-            speed: 2,
+            speed: 2.5,
             direction: "none",
-            random: false,
+            random: true,
             straight: false,
             out_mode: "bounce",
             bounce: false,
