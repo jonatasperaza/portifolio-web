@@ -34,9 +34,9 @@ h2{
     font-weight: bold;
 }
 
-canvas{
+canvas {
     height: 100vh;
-    z-index: -100000;
+    z-index: 1; 
     position: fixed;
     top: 0px;
 }
@@ -71,6 +71,7 @@ canvas{
     font-weight: bold;
     margin-left: 0.5rem;
     color: #fff;
+    z-index: 30000;
 }
 
 .footer{
@@ -80,4 +81,10 @@ canvas{
 .footer p{
     color: #fff;
     font-size: 1.3rem;
+    z-index: 100; /* Aumente este valor para garantir que o rodapé apareça acima do canvas */
+    position: relative; /* Adicione position: relative se não estiver presente */
+}
+.on-top {
+    z-index: 100; /* Aumente este valor para garantir que os links apareçam acima do canvas */
+    position: relative; /* Adicione position: relative se não estiver presente */
 }
